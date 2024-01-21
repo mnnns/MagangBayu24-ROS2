@@ -2,8 +2,8 @@
 # Magang Bayucaraka 2024 - ROS2
 
 **Identitas Peserta**\
-Nama    : \
-NRP     : 
+Nama    : Naswan Nashir Ramadhan\
+NRP     : 5025231246
 
 Pengumpulan tugas dilakukan dengan cara seperti berikut:
 
